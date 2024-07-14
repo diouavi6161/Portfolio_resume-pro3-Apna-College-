@@ -32,7 +32,7 @@ const Home = () => {
                 size="lg"
                 className="uppercase flex gap-2 hover:text-lime-500"
               >
-                <span>Download CV1</span>
+                <span>CV(Full Stack)</span>
                 <FiDownload className="text-xl" />
               </Button>
               </a>
@@ -43,7 +43,7 @@ const Home = () => {
                 size="lg"
                 className="uppercase flex gap-2 hover:text-lime-500"
               >
-                <span>Download CV1</span>
+                <span>CV(Data Analytics)</span>
                 <FiDownload className="text-xl" />
               </Button>
               </a>

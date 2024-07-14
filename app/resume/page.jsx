@@ -92,7 +92,7 @@ const Resume = () => {
         <TabsList className="flex flex-col w-full max-w-[360px] mx-auto xl:mx-0 gap-6">
           <TabsTrigger value="about">About me</TabsTrigger>
           <TabsTrigger value="education">Education</TabsTrigger>
-          <TabsTrigger value="experience">Experince</TabsTrigger>
+          <TabsTrigger value="experience">Experience</TabsTrigger>
         </TabsList>
         {/*content*/}
         <div className="min-h-[70vh] w-full">
